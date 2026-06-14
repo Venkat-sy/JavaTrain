@@ -11,5 +11,6 @@ This repository contains a curated collection of Data Structures and Algorithms 
 - **Sliding Window, Two Pointers & Stacks**: Efficient subarray processing and linear scan techniques.
 - **Design & Sorting**: Custom data structure design (like LRU Cache) and sorting algorithms.
 - **Concurrency**: Multithreading problems.
+- **Math & Bit Manipulation**: Mathematical approaches and bit-level optimizations.
 
 All solutions are written in Java and were extracted to help structured learning and easy referencing!
