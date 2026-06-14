@@ -1,3 +1,10 @@
+/*
+73. Set Matrix Zeroes
+Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.
+Input: matrix = [[1,1,1],[1,0,1],[1,1,1]]
+Output: [[1,0,1],[0,0,0],[1,0,1]]
+Explanation: The element at (1,1) is 0, so row 1 and col 1 become 0.
+*/
 ﻿public class SetMatrixZeroes {
     public void setZeroes(int[][] matrix) {
         boolean firstRow = false, firstCol = false;

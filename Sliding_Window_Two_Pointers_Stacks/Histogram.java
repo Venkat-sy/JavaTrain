@@ -1,3 +1,10 @@
+/*
+84. Largest Rectangle in Histogram
+Given an array of integers heights representing the histogram's bar height where the width of each bar is 1, return the area of the largest rectangle in the histogram.
+Input: heights = [2,1,5,6,2,3]
+Output: 10
+Explanation: The largest rectangle is shown between index 2 and 3.
+*/
 package day6;
 
 import java.util.Stack;

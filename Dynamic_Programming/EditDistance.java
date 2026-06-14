@@ -1,3 +1,10 @@
+/*
+72. Edit Distance
+Given two strings word1 and word2, return the minimum number of operations required to convert word1 to word2. Allowed operations: Insert, Delete, Replace.
+Input: word1 = "horse", word2 = "ros"
+Output: 3
+Explanation: horse -> rorse -> rose -> ros.
+*/
 package day5;
 
 public class EditDistance {

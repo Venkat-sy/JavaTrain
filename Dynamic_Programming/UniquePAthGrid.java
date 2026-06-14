@@ -1,3 +1,10 @@
+/*
+62. Unique Paths
+There is a robot on an m x n grid. The robot is initially located at the top-left corner. The robot can only move either down or right at any point in time. Return the number of possible unique paths that the robot can take to reach the bottom-right corner.
+Input: m = 3, n = 7
+Output: 28
+Explanation: Using DP, calculates the number of ways to reach bottom right corner.
+*/
 package day6;
 
 public class UniquePAthGrid {

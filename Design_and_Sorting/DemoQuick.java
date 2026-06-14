@@ -1,3 +1,10 @@
+/*
+Quick Sort Algorithm
+Implement Quick Sort algorithm to sort an array.
+Input: nums = [3,2,1,5,4]
+Output: [1,2,3,4,5]
+Explanation: Array is sorted using quick sort partitioning.
+*/
 package day10;
 
 import java.util.Arrays;

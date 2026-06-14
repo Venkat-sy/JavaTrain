@@ -1,3 +1,10 @@
+/*
+1114. Print in Order
+Suppose we have a class Foo with methods first(), second(), and third(). Ensure they execute in order first -> second -> third when called by different threads.
+Input: nums = [1,2,3]
+Output: "firstsecondthird"
+Explanation: Regardless of the order threads are fired, the output will always be firstsecondthird.
+*/
 package day9;
 
 import java.util.concurrent.CountDownLatch;

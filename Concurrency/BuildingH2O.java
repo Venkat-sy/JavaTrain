@@ -1,3 +1,10 @@
+/*
+1115. Print FooBar Alternately (Building H2O variation)
+There are two kinds of threads: oxygen and hydrogen. Your goal is to group these threads to form water molecules.
+Input: water = "HOH"
+Output: "HHO"
+Explanation: Two hydrogen threads and one oxygen thread will output HHO.
+*/
 ﻿import java.util.concurrent.Semaphore;
 public class BuildingH2O {
     private Semaphore h = new Semaphore(2);

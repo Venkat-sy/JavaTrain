@@ -1,3 +1,10 @@
+/*
+1195. Fizz Buzz Multithreaded
+You have four functions: fizz, buzz, fizzbuzz, and number. Implement a multithreaded version of FizzBuzz.
+Input: n = 15
+Output: [1,2,"fizz",4,"buzz","fizz",7,8,"fizz","buzz",11,"fizz",13,14,"fizzbuzz"]
+Explanation: Classic fizzbuzz logic but executed by 4 different threads.
+*/
 package day9;
 
 import java.util.concurrent.Semaphore;

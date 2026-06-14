@@ -1,3 +1,10 @@
+/*
+290. Word Pattern
+Given a pattern and a string s, find if s follows the same pattern.
+Input: pattern = "abba", s = "dog cat cat dog"
+Output: true
+Explanation: Words correspond to pattern characters accurately.
+*/
 ﻿import java.util.HashMap;
 import java.util.Map;
 public class WordPattern {

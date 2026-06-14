@@ -1,3 +1,10 @@
+/*
+Prefix and Postfix Sum via Recursion
+Using recursion, compute the prefix and postfix sum of an array.
+Input: [1, 2, 3]
+Output: Prefix: [1, 3, 6], Postfix: [6, 5, 3]
+Explanation: Calculates sums iteratively or recursively from left and right.
+*/
 package day4;
 
 import java.util.Arrays;

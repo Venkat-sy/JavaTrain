@@ -1,3 +1,10 @@
+/*
+146. LRU Cache
+Design a data structure that follows the constraints of a Least Recently Used (LRU) cache.
+Input: ["LRUCache", "put", "put", "get"]
+Output: [null, null, null, 1]
+Explanation: Put (1,1), Put (2,2), Get (1) returns 1.
+*/
 package day6;
 
 import java.util.Deque;

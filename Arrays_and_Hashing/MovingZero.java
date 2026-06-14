@@ -1,3 +1,10 @@
+/*
+283. Move Zeroes
+Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+Input: nums = [0,1,0,3,12]
+Output: [1,3,12,0,0]
+Explanation: Non-zero elements 1,3,12 retain order and 0s are moved to end.
+*/
 package day1;
 
 import java.util.Arrays;

@@ -1,3 +1,10 @@
+/*
+Sliding Window Minimum
+You are given an array of integers nums, there is a sliding window of size k. Return the min sliding window.
+Input: nums = [1,3,-1,-3,5,3,6,7], k = 3
+Output: [-1, -3, -3, -3, 3, 3]
+Explanation: Slide the window of size 3 and find the minimum at each step.
+*/
 package day7;
 
 import java.util.Arrays;

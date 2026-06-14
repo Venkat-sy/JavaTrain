@@ -1,3 +1,10 @@
+/*
+41. First Missing Positive
+Given an unsorted integer array nums. Return the smallest positive integer that is not present in nums.
+Input: nums = [3,4,-1,1]
+Output: 2
+Explanation: 1 is in the array but 2 is missing.
+*/
 package day9;
 
 import java.util.Arrays;

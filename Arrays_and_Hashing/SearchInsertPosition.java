@@ -1,3 +1,10 @@
+/*
+35. Search Insert Position
+Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
+Input: nums = [1,3,5,6], target = 5
+Output: 2
+Explanation: 5 is found at index 2.
+*/
 ﻿public class SearchInsertPosition {
     public int searchInsert(int[] nums, int target) {
         int left = 0, right = nums.length - 1;

@@ -1,3 +1,10 @@
+/*
+771. Jewels and Stones
+You're given strings jewels representing the types of stones that are jewels, and stones representing the stones you have. You want to know how many of the stones you have are also jewels.
+Input: jewels = "aA", stones = "aAAbbbb"
+Output: 3
+Explanation: There are 3 stones that are jewels.
+*/
 package day7;
 
 import java.util.HashSet;

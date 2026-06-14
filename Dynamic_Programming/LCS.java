@@ -1,3 +1,10 @@
+/*
+1143. Longest Common Subsequence
+Given two strings text1 and text2, return the length of their longest common subsequence.
+Input: text1 = "abcde", text2 = "ace"
+Output: 3
+Explanation: The longest common subsequence is "ace" and its length is 3.
+*/
 package day6;
 
 public class LCS {

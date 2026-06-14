@@ -1,3 +1,10 @@
+/*
+322. Coin Change
+You are given an integer array coins representing coins of different denominations and an integer amount representing a total amount of money. Return the fewest number of coins that you need to make up that amount.
+Input: coins = [1,2,5], amount = 11
+Output: 3
+Explanation: 11 = 5 + 5 + 1.
+*/
 package day5;
 
 import java.util.Arrays;

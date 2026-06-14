@@ -1,3 +1,10 @@
+/*
+853. Car Fleet
+There are n cars going to the same destination along a one-lane road. The destination is target miles away. You are given two integer array position and speed. Return the number of car fleets that will arrive at the destination.
+Input: target = 12, position = [10,8,0,5,3], speed = [2,4,1,1,3]
+Output: 3
+Explanation: The cars starting at 10 and 8 form a fleet, 5 and 3 form a fleet, and 0 forms a fleet.
+*/
 package day13;
 
 import java.util.Comparator;

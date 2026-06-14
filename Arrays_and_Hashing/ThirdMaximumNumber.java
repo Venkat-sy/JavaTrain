@@ -1,3 +1,10 @@
+/*
+414. Third Maximum Number
+Given an integer array nums, return the third distinct maximum number in this array. If the third maximum does not exist, return the maximum number.
+Input: nums = [3,2,1]
+Output: 1
+Explanation: The first distinct maximum is 3, second is 2, third is 1.
+*/
 ﻿public class ThirdMaximumNumber {
     public int thirdMax(int[] nums) {
         Integer max1 = null, max2 = null, max3 = null;

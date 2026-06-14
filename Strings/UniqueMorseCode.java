@@ -1,3 +1,10 @@
+/*
+804. Unique Morse Code Words
+Given an array of strings words where each word can be written as a concatenation of the Morse code of each letter, return the number of different transformations among all words we have.
+Input: words = ["gin","zen","gig","msg"]
+Output: 2
+Explanation: There are 2 different transformations: "--...-." and "--...--.".
+*/
 package day7;
 
 import java.util.HashSet;
